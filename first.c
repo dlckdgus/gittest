@@ -1,5 +1,7 @@
 #include <stdio.h>
 
 void main(){
-	printf ("hello word\n");
+	int i;
+	for(i = 0 ; i<5; i++)
+	printf ("Hello world!\n");
 }
